@@ -1,0 +1,10 @@
+version: "1.0"
+info:
+  model: int-scaffold
+packages:
+- name: EdgeIC_Automaion1017
+  gitServerName: mraj_new
+  gitUrl: https://github.com/MeghaRaj69/EdgeIC_Automaion1017
+  gitUsername: MeghaRaj69
+  gitToken: edge.scaffolding.EdgeIC_Automaion1017.mraj_new.gitToken
+  gitBranch: main
